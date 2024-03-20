@@ -16,6 +16,4 @@ Real-time Monitoring: During runtime, users can monitor the processing status to
 
 # To Run Project
 docker build . -t webcrawler/backend </br>
-docker run </br>
--e BASE_URL=https://manpages.courier-mta.org </br>
--p 4567:4567 --rm webcrawler/backend</br>
+docker run -e BASE_URL=https://manpages.courier-mta.org -p 4567:4567 --rm webcrawler/backend</br>
