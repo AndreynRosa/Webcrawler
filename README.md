@@ -7,6 +7,11 @@ High Throughput: The web crawler is optimized to handle more than 100 requests p
 
 Real-time Monitoring: During runtime, users can monitor the processing status to track the progress of requests being executed.
 
+# Features
+High Throughput: The web crawler is optimized to handle more than 100 requests per second, ensuring efficient performance even under heavy loads.
+
+Real-time Monitoring: During runtime, users can monitor the processing status to track the progress of requests being executed.
+
 
 
 # To Run Project
